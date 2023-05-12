@@ -6,6 +6,7 @@ import lombok.Getter;
 public class Mago extends Heroi implements Vilao {
 
     private int magia = 10;
+    private int forca = 10;
 
     @Override
     void bonusClasse() {

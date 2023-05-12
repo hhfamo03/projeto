@@ -22,10 +22,10 @@ public class App
     public static void testaMetodo(Vilao personagem) {
 
         int[] lista = new int[3];
+        System.out.println("batata");
 
         lista[0] = 1;
         lista[1] = 2;
-        lista[2] = 3;
 
         for (int i = 0; i < 4; i++) {
             System.out.println(lista[i]);
