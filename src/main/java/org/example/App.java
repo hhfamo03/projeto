@@ -26,7 +26,7 @@ public class App
 
         lista[0] = 1;
         lista[1] = 2;
-        lista[2] = 3j;
+        lista[2] = 3;
 
         for (int i = 0; i < 4; i++) {
             System.out.println(lista[i]);
